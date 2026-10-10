@@ -1,0 +1,601 @@
+review_id,review,rating,sentiment,date,category
+111,I love this product I expected more.,5,positive,2026-03-07,Books
+420,The product quality is terrible I would buy it again.,2,negative,2026-01-18,Electronics
+566,I am unhappy with this purchase The experience was good.,2,negative,2026-01-08,Books
+78,"Excellent product After using it for some time, this is my opinion.",5,positive,2026-03-05,Home
+182,I am happy with this product I expected more.,5,positive,2026-03-01,Home
+285,It works as expected,3,neutral,2026-03-04,Home
+11,The product is reliable and useful This is my honest review.,5,positive,2026-02-12,Clothing
+470,The product is awful I would buy it again.,1,negative,2026-03-12,Beauty
+79,Excellent performance The product arrived on time.,5,positive,2026-03-19,Clothing
+350,It works as expected This is my honest review.,3,neutral,2026-01-02,Clothing
+56,I would definitely recommend this product,5,positive,2026-01-09,Electronics
+119,This product exceeded my expectations This is my honest review.,5,positive,2026-01-16,Home
+110,"The product is perfect Overall, I am satisfied.",4,positive,2026-01-19,Home
+589,"The product broke after one day Overall, I am satisfied.",2,negative,2026-02-11,Home
+370,The product is acceptable for basic use The experience was good.,3,neutral,2026-02-06,Beauty
+235,The product performs normally I would buy it again.,3,neutral,2026-01-24,Electronics
+31,Excellent performance I expected more.,5,positive,2026-02-17,Home
+213,The experience was average The experience was good.,3,neutral,2026-01-09,Electronics
+185,Very impressive product The experience was good.,5,positive,2026-01-08,Books
+87,"This product is absolutely amazing Overall, I am satisfied.",5,positive,2026-01-26,Clothing
+3,Good quality and fast delivery The experience was good.,4,positive,2026-01-23,Beauty
+588,Very disappointing experience,1,negative,2026-03-02,Clothing
+536,Terrible performance I would buy it again.,2,negative,2026-02-19,Home
+597,"Terrible product After using it for some time, this is my opinion.",2,negative,2026-03-04,Electronics
+369,The product is decent,3,neutral,2026-03-26,Home
+540,Very bad quality I expected more.,2,negative,2026-02-03,Books
+73,The quality is excellent The product arrived on time.,5,positive,2026-02-20,Home
+136,Amazing product and fast delivery,4,positive,2026-03-10,Clothing
+557,Waste of money I expected more.,1,negative,2026-01-21,Books
+438,I would not recommend this product,1,negative,2026-03-24,Clothing
+596,"Terrible performance Overall, I am satisfied.",1,negative,2026-03-14,Clothing
+164,I am completely satisfied I would buy it again.,5,positive,2026-03-17,Clothing
+83,"I would definitely recommend this product After using it for some time, this is my opinion.",4,positive,2026-03-10,Clothing
+258,"The product is okay for the price After using it for some time, this is my opinion.",3,neutral,2026-02-03,Clothing
+193,The product quality is amazing I expected more.,4,positive,2026-02-26,Home
+454,The product is terrible I would buy it again.,1,negative,2026-03-15,Clothing
+133,Very satisfied with my purchase This is my honest review.,4,positive,2026-03-10,Electronics
+516,The product quality is terrible This is my honest review.,2,negative,2026-02-20,Beauty
+442,The product broke after one day The experience was good.,2,negative,2026-02-15,Home
+276,The product is acceptable I would buy it again.,3,neutral,2026-01-17,Home
+365,"The product is acceptable After using it for some time, this is my opinion.",3,neutral,2026-02-20,Clothing
+30,The product quality is amazing The product arrived on time.,4,positive,2026-03-23,Beauty
+507,Terrible product This is my honest review.,2,negative,2026-02-02,Electronics
+571,The product broke after one day I expected more.,2,negative,2026-03-13,Books
+25,The product is perfect The experience was good.,4,positive,2026-01-18,Home
+183,I am happy with this product I expected more.,4,positive,2026-02-12,Electronics
+474,The product broke after one day The product arrived on time.,1,negative,2026-03-13,Beauty
+105,Really good product I expected more.,5,positive,2026-01-16,Home
+64,"Excellent quality and great performance After using it for some time, this is my opinion.",4,positive,2026-03-04,Clothing
+491,Very bad product This is my honest review.,1,negative,2026-02-09,Home
+246,The experience was normal The experience was good.,3,neutral,2026-02-28,Electronics
+249,The product is fine The product arrived on time.,3,neutral,2026-02-01,Electronics
+102,I love this product The product arrived on time.,4,positive,2026-03-14,Electronics
+556,The product is completely useless The product arrived on time.,1,negative,2026-01-11,Electronics
+592,Bad quality and poor performance The experience was good.,1,negative,2026-01-14,Clothing
+357,The quality is average The product arrived on time.,3,neutral,2026-03-12,Home
+210,Nothing special about this product The experience was good.,3,neutral,2026-03-01,Clothing
+166,The product quality is very good I expected more.,4,positive,2026-03-10,Home
+138,The product is perfect The experience was good.,5,positive,2026-02-10,Books
+196,"Wonderful product and great service Overall, I am satisfied.",5,positive,2026-03-24,Home
+77,"I would definitely recommend this product After using it for some time, this is my opinion.",4,positive,2026-03-10,Home
+177,Really happy with this purchase The product arrived on time.,4,positive,2026-02-06,Electronics
+330,"The product is neither good nor bad Overall, I am satisfied.",3,neutral,2026-01-26,Clothing
+537,"Terrible performance Overall, I am satisfied.",1,negative,2026-01-09,Books
+549,The product failed quickly I expected more.,1,negative,2026-01-21,Home
+71,"The product is reliable and useful After using it for some time, this is my opinion.",5,positive,2026-02-01,Beauty
+562,Very disappointing experience The product arrived on time.,2,negative,2026-02-26,Books
+590,The product is terrible This is my honest review.,1,negative,2026-01-10,Home
+82,Good quality and fast delivery This is my honest review.,4,positive,2026-02-17,Electronics
+317,"The product works fine Overall, I am satisfied.",3,neutral,2026-03-26,Home
+305,The experience was average I would buy it again.,3,neutral,2026-01-10,Books
+7,"Really nice product After using it for some time, this is my opinion.",5,positive,2026-03-15,Electronics
+424,Very disappointing experience,2,negative,2026-01-08,Beauty
+375,"The experience was normal After using it for some time, this is my opinion.",3,neutral,2026-02-11,Beauty
+430,The product is unreliable I would buy it again.,2,negative,2026-02-02,Beauty
+538,The product quality is terrible I would buy it again.,1,negative,2026-01-23,Clothing
+313,It is okay for the price I expected more.,3,neutral,2026-01-11,Electronics
+239,The product is acceptable for basic use,3,neutral,2026-02-22,Home
+560,Very bad quality I would buy it again.,2,negative,2026-03-15,Beauty
+433,The product quality is terrible The experience was good.,2,negative,2026-02-02,Clothing
+287,The product is fine for normal use I would buy it again.,3,neutral,2026-01-27,Electronics
+427,The product is completely useless The experience was good.,1,negative,2026-03-10,Clothing
+599,I hate this product The product arrived on time.,1,negative,2026-02-09,Clothing
+362,"The product is satisfactory After using it for some time, this is my opinion.",3,neutral,2026-03-17,Clothing
+74,"The product quality is very good Overall, I am satisfied.",5,positive,2026-01-09,Beauty
+40,I really like this product I would buy it again.,5,positive,2026-02-15,Clothing
+156,"Really happy with this purchase After using it for some time, this is my opinion.",5,positive,2026-01-25,Home
+219,It is a standard product This is my honest review.,3,neutral,2026-02-20,Electronics
+371,The product is reasonably good The product arrived on time.,3,neutral,2026-01-19,Clothing
+211,It works as expected I would buy it again.,3,neutral,2026-02-26,Beauty
+236,The product is fine,3,neutral,2026-01-13,Beauty
+547,Very bad quality This is my honest review.,1,negative,2026-01-15,Electronics
+61,I really like this product The product arrived on time.,4,positive,2026-01-23,Electronics
+301,"It is a decent product After using it for some time, this is my opinion.",3,neutral,2026-02-26,Electronics
+260,"The price is okay Overall, I am satisfied.",3,neutral,2026-02-02,Books
+281,Average quality product This is my honest review.,3,neutral,2026-01-10,Beauty
+229,The product is okay for the price The product arrived on time.,3,neutral,2026-03-10,Home
+12,Good quality and fast delivery I expected more.,4,positive,2026-03-06,Beauty
+413,I regret buying this product The product arrived on time.,2,negative,2026-01-18,Beauty
+84,Highly satisfied with the product The experience was good.,4,positive,2026-01-08,Electronics
+91,Awesome product This is my honest review.,4,positive,2026-02-09,Books
+209,The experience was average The experience was good.,3,neutral,2026-01-19,Beauty
+539,The quality is extremely poor The experience was good.,2,negative,2026-01-19,Books
+336,It is okay for the price I would buy it again.,3,neutral,2026-01-27,Beauty
+80,Very impressive product The product arrived on time.,4,positive,2026-02-07,Home
+435,The product broke after one day The experience was good.,2,negative,2026-02-21,Clothing
+141,Really happy with this purchase I would buy it again.,4,positive,2026-03-03,Clothing
+282,The experience was average This is my honest review.,3,neutral,2026-03-19,Home
+269,The quality is average The product arrived on time.,3,neutral,2026-03-28,Home
+415,Very poor quality and waste of money The experience was good.,1,negative,2026-02-12,Electronics
+200,Excellent quality and great performance,5,positive,2026-01-04,Books
+465,Very disappointing experience,1,negative,2026-03-19,Clothing
+576,The product does not work properly,2,negative,2026-01-01,Clothing
+585,Waste of money The product arrived on time.,1,negative,2026-01-18,Clothing
+372,"It works normally Overall, I am satisfied.",3,neutral,2026-02-11,Electronics
+400,"It is a decent product Overall, I am satisfied.",3,neutral,2026-02-11,Clothing
+341,It is an ordinary product I would buy it again.,3,neutral,2026-03-20,Beauty
+149,"I really like this product Overall, I am satisfied.",4,positive,2026-03-11,Books
+495,The product stopped working I expected more.,1,negative,2026-03-05,Home
+440,This product is a waste of money,1,negative,2026-03-04,Clothing
+146,The product works perfectly I expected more.,4,positive,2026-01-06,Electronics
+10,Highly satisfied with the product I expected more.,4,positive,2026-01-13,Clothing
+376,It is okay for the price This is my honest review.,3,neutral,2026-02-22,Beauty
+524,Waste of money,2,negative,2026-01-27,Clothing
+189,Really nice product The experience was good.,4,positive,2026-02-22,Beauty
+132,Very satisfied with my purchase I expected more.,4,positive,2026-03-10,Electronics
+573,I regret buying this product The experience was good.,1,negative,2026-02-13,Beauty
+299,"The product is okay for the price Overall, I am satisfied.",3,neutral,2026-03-18,Electronics
+587,"This product is a waste of money After using it for some time, this is my opinion.",2,negative,2026-03-12,Electronics
+447,This product is a waste of money The product arrived on time.,2,negative,2026-01-11,Clothing
+85,"This is a great purchase Overall, I am satisfied.",5,positive,2026-03-19,Books
+593,Very poor quality and waste of money The experience was good.,2,negative,2026-02-01,Electronics
+178,Very impressive product,4,positive,2026-01-10,Home
+154,"Nice product After using it for some time, this is my opinion.",4,positive,2026-02-14,Clothing
+453,The product is awful,2,negative,2026-03-08,Clothing
+197,Wonderful product and great service The product arrived on time.,5,positive,2026-03-08,Electronics
+76,"Excellent performance After using it for some time, this is my opinion.",5,positive,2026-03-11,Electronics
+93,Amazing product and fast delivery I expected more.,4,positive,2026-02-11,Home
+297,The experience was normal,3,neutral,2026-02-14,Clothing
+69,"I am happy with this product After using it for some time, this is my opinion.",5,positive,2026-01-01,Clothing
+16,"This was a wonderful purchase After using it for some time, this is my opinion.",4,positive,2026-02-21,Books
+205,"The price is okay Overall, I am satisfied.",3,neutral,2026-03-12,Beauty
+159,The product is reliable and useful I would buy it again.,5,positive,2026-03-16,Books
+89,Great product for the price This is my honest review.,4,positive,2026-03-17,Books
+498,"Waste of money Overall, I am satisfied.",1,negative,2026-03-22,Clothing
+118,"The product is reliable and useful After using it for some time, this is my opinion.",4,positive,2026-02-15,Electronics
+383,It works as expected This is my honest review.,3,neutral,2026-03-09,Clothing
+406,The product is completely useless The experience was good.,1,negative,2026-01-15,Books
+34,Very good product and excellent quality The experience was good.,4,positive,2026-02-03,Electronics
+1,Great product for the price,5,positive,2026-01-05,Clothing
+594,The product is awful The product arrived on time.,2,negative,2026-01-17,Electronics
+532,"Terrible performance After using it for some time, this is my opinion.",1,negative,2026-01-25,Books
+354,It is a decent product This is my honest review.,3,neutral,2026-03-12,Clothing
+333,It works normally This is my honest review.,3,neutral,2026-03-03,Books
+535,I am not satisfied with this purchase The experience was good.,1,negative,2026-02-18,Beauty
+245,The product is okay This is my honest review.,3,neutral,2026-01-13,Clothing
+23,Awesome product I would buy it again.,5,positive,2026-03-24,Electronics
+441,Extremely disappointing product This is my honest review.,1,negative,2026-03-07,Beauty
+117,The product is reliable and useful This is my honest review.,5,positive,2026-03-19,Books
+90,"I am completely satisfied After using it for some time, this is my opinion.",5,positive,2026-03-17,Beauty
+366,Average quality product I expected more.,3,neutral,2026-03-18,Beauty
+212,"It is okay for the price Overall, I am satisfied.",3,neutral,2026-01-12,Clothing
+19,Highly satisfied with the product I would buy it again.,5,positive,2026-01-28,Electronics
+408,The product is unreliable The experience was good.,1,negative,2026-01-17,Beauty
+321,The product meets basic expectations I would buy it again.,3,neutral,2026-02-15,Home
+145,The product is fantastic The experience was good.,5,positive,2026-03-08,Electronics
+290,The product is neither good nor bad,3,neutral,2026-03-21,Electronics
+275,It is okay for the price The experience was good.,3,neutral,2026-01-08,Books
+542,"Terrible product After using it for some time, this is my opinion.",2,negative,2026-02-19,Books
+361,The quality is average I would buy it again.,3,neutral,2026-02-26,Books
+251,"The product performs normally Overall, I am satisfied.",3,neutral,2026-03-13,Books
+288,"The product is fine for normal use After using it for some time, this is my opinion.",3,neutral,2026-01-13,Books
+529,The product is awful This is my honest review.,1,negative,2026-01-09,Beauty
+401,This product is a waste of money The experience was good.,1,negative,2026-02-08,Home
+168,"Really nice product After using it for some time, this is my opinion.",5,positive,2026-02-28,Books
+55,Amazing quality and fast delivery I would buy it again.,5,positive,2026-03-10,Beauty
+494,The product does not work properly I expected more.,1,negative,2026-03-16,Books
+47,This is a great purchase I would buy it again.,4,positive,2026-01-28,Beauty
+94,"The product works very well Overall, I am satisfied.",4,positive,2026-01-13,Clothing
+265,"The experience was average After using it for some time, this is my opinion.",3,neutral,2026-03-06,Beauty
+109,This was a wonderful purchase The experience was good.,5,positive,2026-02-06,Home
+273,"The experience was average After using it for some time, this is my opinion.",3,neutral,2026-01-21,Beauty
+600,"The product quality is terrible After using it for some time, this is my opinion.",2,negative,2026-02-15,Home
+480,"Waste of money Overall, I am satisfied.",2,negative,2026-01-10,Books
+437,The product is not good The experience was good.,1,negative,2026-02-22,Home
+384,It is a standard product I expected more.,3,neutral,2026-03-24,Electronics
+381,The experience was normal The product arrived on time.,3,neutral,2026-01-10,Home
+463,The product is unreliable This is my honest review.,1,negative,2026-03-06,Electronics
+395,The experience was normal This is my honest review.,3,neutral,2026-02-09,Beauty
+266,The product works fine The experience was good.,3,neutral,2026-03-17,Books
+481,Very disappointed with the product The product arrived on time.,1,negative,2026-01-19,Beauty
+518,Poor quality product I expected more.,1,negative,2026-02-04,Clothing
+70,Excellent performance The product arrived on time.,5,positive,2026-01-25,Home
+232,The product is acceptable for basic use I expected more.,3,neutral,2026-03-25,Books
+404,"I hate this product Overall, I am satisfied.",2,negative,2026-01-13,Home
+279,The product meets basic expectations I would buy it again.,3,neutral,2026-02-12,Electronics
+473,I am unhappy with this purchase This is my honest review.,2,negative,2026-02-18,Clothing
+351,The quality could be better The product arrived on time.,3,neutral,2026-01-27,Clothing
+510,"Poor quality product After using it for some time, this is my opinion.",2,negative,2026-01-26,Books
+150,The product is perfect I expected more.,4,positive,2026-01-22,Electronics
+125,Great product The experience was good.,5,positive,2026-02-16,Beauty
+429,Really bad product The experience was good.,2,negative,2026-02-02,Home
+466,Bad quality and poor performance I expected more.,1,negative,2026-03-09,Electronics
+186,"Really good product After using it for some time, this is my opinion.",5,positive,2026-01-27,Home
+228,"It is an ordinary product After using it for some time, this is my opinion.",3,neutral,2026-02-28,Books
+292,It does the basic job I would buy it again.,3,neutral,2026-03-01,Books
+248,"The product performs normally After using it for some time, this is my opinion.",3,neutral,2026-02-23,Beauty
+291,The product is satisfactory I would buy it again.,3,neutral,2026-02-27,Electronics
+250,The product is satisfactory I would buy it again.,3,neutral,2026-01-14,Home
+444,The product failed quickly This is my honest review.,2,negative,2026-03-16,Electronics
+552,The product is awful The experience was good.,2,negative,2026-03-04,Electronics
+553,Very poor quality and waste of money The experience was good.,2,negative,2026-01-19,Electronics
+551,Poor quality product,2,negative,2026-03-23,Home
+115,"This product is worth the money Overall, I am satisfied.",5,positive,2026-03-27,Home
+204,The price is okay The experience was good.,3,neutral,2026-01-28,Books
+142,Fantastic product and good quality,5,positive,2026-03-20,Books
+339,It is an average product I expected more.,3,neutral,2026-02-05,Beauty
+8,"The product works very well Overall, I am satisfied.",5,positive,2026-03-10,Electronics
+522,Terrible product I would buy it again.,1,negative,2026-02-05,Books
+20,Great product for the price I would buy it again.,4,positive,2026-03-03,Books
+173,This product is absolutely amazing I would buy it again.,5,positive,2026-01-16,Clothing
+452,This product is a waste of money,1,negative,2026-03-02,Electronics
+57,"Great product for the price Overall, I am satisfied.",4,positive,2026-02-20,Home
+302,"It is an average product After using it for some time, this is my opinion.",3,neutral,2026-03-24,Electronics
+337,The quality is average I would buy it again.,3,neutral,2026-01-11,Clothing
+451,Waste of money I would buy it again.,1,negative,2026-02-06,Beauty
+323,The product is satisfactory I expected more.,3,neutral,2026-01-24,Electronics
+311,It does the basic job This is my honest review.,3,neutral,2026-02-26,Beauty
+50,"The product is fantastic After using it for some time, this is my opinion.",5,positive,2026-03-23,Clothing
+345,The quality could be better This is my honest review.,3,neutral,2026-02-15,Books
+26,The product quality is amazing,5,positive,2026-01-04,Books
+443,"The product is unreliable After using it for some time, this is my opinion.",2,negative,2026-02-17,Home
+221,"It is an ordinary product After using it for some time, this is my opinion.",3,neutral,2026-03-10,Beauty
+484,Very disappointed with the product I expected more.,2,negative,2026-02-26,Home
+541,"Very bad quality Overall, I am satisfied.",2,negative,2026-03-09,Beauty
+43,This product is worth the money This is my honest review.,4,positive,2026-01-06,Books
+417,Very bad product The product arrived on time.,1,negative,2026-03-24,Clothing
+262,"The product performs normally Overall, I am satisfied.",3,neutral,2026-03-18,Books
+409,"The product does not work properly After using it for some time, this is my opinion.",1,negative,2026-01-02,Beauty
+278,It is a decent product I would buy it again.,3,neutral,2026-03-25,Clothing
+570,Very poor quality and waste of money I expected more.,1,negative,2026-01-26,Electronics
+382,The product works fine I expected more.,3,neutral,2026-02-21,Home
+412,"Bad quality and poor performance Overall, I am satisfied.",2,negative,2026-02-05,Electronics
+155,This product is worth the money I expected more.,5,positive,2026-01-15,Beauty
+127,I am happy with this product I expected more.,5,positive,2026-01-04,Home
+310,The product is decent The product arrived on time.,3,neutral,2026-02-06,Books
+520,The product stopped working The product arrived on time.,2,negative,2026-01-19,Beauty
+446,I hate this product The experience was good.,1,negative,2026-02-18,Electronics
+175,The product works very well The product arrived on time.,5,positive,2026-03-02,Books
+32,"I really like this product Overall, I am satisfied.",4,positive,2026-01-11,Clothing
+114,"Very good product Overall, I am satisfied.",5,positive,2026-02-27,Electronics
+24,Wonderful product and great service I would buy it again.,4,positive,2026-03-17,Home
+174,"Wonderful product and great service After using it for some time, this is my opinion.",5,positive,2026-02-28,Electronics
+558,Really bad product I would buy it again.,1,negative,2026-03-01,Beauty
+67,Excellent product The experience was good.,5,positive,2026-03-04,Clothing
+58,"Good quality and fast delivery After using it for some time, this is my opinion.",4,positive,2026-03-16,Home
+322,"The product is acceptable for basic use Overall, I am satisfied.",3,neutral,2026-02-13,Beauty
+223,The product is decent The experience was good.,3,neutral,2026-01-14,Books
+18,I am completely satisfied I expected more.,5,positive,2026-02-12,Beauty
+300,The product is reasonably good,3,neutral,2026-01-21,Books
+256,Nothing special about this product I would buy it again.,3,neutral,2026-01-25,Electronics
+306,Nothing special about this product,3,neutral,2026-02-10,Electronics
+574,"Poor experience with this product Overall, I am satisfied.",2,negative,2026-03-28,Books
+191,"The product is fantastic After using it for some time, this is my opinion.",4,positive,2026-02-11,Electronics
+319,The experience was average This is my honest review.,3,neutral,2026-01-08,Clothing
+528,The product is unreliable I expected more.,1,negative,2026-03-24,Books
+272,"It works normally Overall, I am satisfied.",3,neutral,2026-02-21,Beauty
+95,The product works perfectly The experience was good.,4,positive,2026-02-11,Books
+181,Really good product The experience was good.,5,positive,2026-01-08,Beauty
+332,The product is fine for normal use I would buy it again.,3,neutral,2026-02-13,Electronics
+329,The quality could be better I expected more.,3,neutral,2026-02-17,Clothing
+312,It is an average product The product arrived on time.,3,neutral,2026-03-27,Books
+6,"Good quality and fast delivery After using it for some time, this is my opinion.",4,positive,2026-02-04,Electronics
+46,Very good product and excellent quality,5,positive,2026-01-19,Electronics
+399,The product is fine The product arrived on time.,3,neutral,2026-02-03,Beauty
+577,Terrible product I would buy it again.,1,negative,2026-02-12,Clothing
+469,Poor experience with this product The experience was good.,2,negative,2026-02-13,Beauty
+17,I am happy with this product I would buy it again.,5,positive,2026-01-24,Clothing
+49,This was a wonderful purchase The experience was good.,4,positive,2026-01-14,Beauty
+580,Very disappointed with the product I expected more.,1,negative,2026-03-19,Home
+488,"The product quality is terrible After using it for some time, this is my opinion.",2,negative,2026-02-27,Home
+4,The product works very well The product arrived on time.,4,positive,2026-03-09,Books
+487,Very poor quality and waste of money The product arrived on time.,2,negative,2026-02-26,Beauty
+439,Really bad product The experience was good.,2,negative,2026-02-10,Clothing
+363,It is a decent product,3,neutral,2026-01-23,Electronics
+434,The product is unreliable The product arrived on time.,2,negative,2026-03-05,Beauty
+303,"The product is acceptable for basic use After using it for some time, this is my opinion.",3,neutral,2026-02-18,Electronics
+226,The product is okay for the price This is my honest review.,3,neutral,2026-01-03,Electronics
+27,Very good product I expected more.,4,positive,2026-01-19,Electronics
+425,"I am not satisfied with this purchase Overall, I am satisfied.",1,negative,2026-01-15,Beauty
+264,The product is satisfactory This is my honest review.,3,neutral,2026-02-04,Electronics
+51,Very nice product The experience was good.,5,positive,2026-01-22,Books
+230,"The price is okay Overall, I am satisfied.",3,neutral,2026-03-16,Clothing
+38,I am happy with this product,4,positive,2026-02-24,Electronics
+158,"The product quality is amazing After using it for some time, this is my opinion.",5,positive,2026-01-07,Books
+238,"Average quality product After using it for some time, this is my opinion.",3,neutral,2026-01-06,Electronics
+575,The product is completely useless,1,negative,2026-02-04,Electronics
+176,"I would definitely recommend this product Overall, I am satisfied.",4,positive,2026-01-24,Home
+515,The quality is extremely poor The experience was good.,2,negative,2026-02-22,Electronics
+358,The product is acceptable for basic use The product arrived on time.,3,neutral,2026-02-02,Electronics
+195,Highly satisfied with the product The product arrived on time.,5,positive,2026-02-01,Electronics
+504,Very bad product The product arrived on time.,1,negative,2026-03-05,Electronics
+579,The product is awful I expected more.,1,negative,2026-02-26,Electronics
+512,Extremely disappointing product The experience was good.,2,negative,2026-02-13,Beauty
+68,Really good product,5,positive,2026-01-27,Clothing
+320,"The product is acceptable for basic use After using it for some time, this is my opinion.",3,neutral,2026-03-02,Books
+169,Excellent performance The experience was good.,5,positive,2026-02-02,Clothing
+368,"The product is okay for the price Overall, I am satisfied.",3,neutral,2026-02-26,Beauty
+163,The product is reliable and useful The product arrived on time.,5,positive,2026-01-15,Books
+194,"Amazing quality and fast delivery After using it for some time, this is my opinion.",4,positive,2026-01-05,Books
+153,Awesome product This is my honest review.,4,positive,2026-02-14,Books
+502,The product is unreliable The experience was good.,2,negative,2026-02-15,Home
+347,The product is fine for normal use The experience was good.,3,neutral,2026-01-11,Beauty
+486,Bad quality and poor performance The experience was good.,2,negative,2026-01-10,Electronics
+334,"The product is acceptable After using it for some time, this is my opinion.",3,neutral,2026-02-22,Books
+104,Very nice product The experience was good.,5,positive,2026-02-25,Home
+391,The product performs normally,3,neutral,2026-01-02,Books
+75,Excellent quality and great performance The product arrived on time.,4,positive,2026-03-22,Beauty
+423,Waste of money I would buy it again.,2,negative,2026-03-25,Clothing
+578,I regret buying this product I expected more.,1,negative,2026-01-24,Home
+120,Very nice product I would buy it again.,5,positive,2026-02-26,Clothing
+397,The product is fine I expected more.,3,neutral,2026-03-11,Electronics
+410,The product is not good The experience was good.,1,negative,2026-02-28,Clothing
+482,I regret buying this product I would buy it again.,2,negative,2026-01-09,Clothing
+208,The product meets basic expectations,3,neutral,2026-01-05,Home
+335,"The product is reasonably good After using it for some time, this is my opinion.",3,neutral,2026-03-19,Beauty
+353,The product is fine for normal use This is my honest review.,3,neutral,2026-01-03,Books
+342,The product is satisfactory,3,neutral,2026-01-21,Electronics
+405,Really bad product I expected more.,1,negative,2026-02-20,Home
+9,"I would definitely recommend this product After using it for some time, this is my opinion.",4,positive,2026-01-22,Electronics
+378,The experience was normal I expected more.,3,neutral,2026-02-23,Home
+37,"The quality is excellent Overall, I am satisfied.",5,positive,2026-02-14,Home
+140,"I would definitely recommend this product Overall, I am satisfied.",4,positive,2026-02-22,Clothing
+254,The quality is average The experience was good.,3,neutral,2026-03-27,Home
+304,The product is satisfactory I would buy it again.,3,neutral,2026-03-06,Books
+543,"Very poor quality and waste of money Overall, I am satisfied.",2,negative,2026-01-26,Home
+60,"This product is absolutely amazing After using it for some time, this is my opinion.",4,positive,2026-01-24,Home
+112,Amazing product and fast delivery The experience was good.,4,positive,2026-03-20,Home
+364,The product is satisfactory This is my honest review.,3,neutral,2026-03-17,Clothing
+355,The product works fine,3,neutral,2026-03-27,Books
+263,The experience was average,3,neutral,2026-03-07,Beauty
+526,The product is not good This is my honest review.,2,negative,2026-01-19,Clothing
+298,"The product is okay After using it for some time, this is my opinion.",3,neutral,2026-02-06,Beauty
+151,This was a wonderful purchase,5,positive,2026-01-25,Beauty
+267,The product meets basic expectations I would buy it again.,3,neutral,2026-02-13,Home
+519,The product is completely useless I expected more.,1,negative,2026-02-23,Clothing
+531,"Very disappointed with the product Overall, I am satisfied.",1,negative,2026-01-15,Home
+39,"Nice product Overall, I am satisfied.",4,positive,2026-01-18,Clothing
+432,Very bad product The product arrived on time.,1,negative,2026-02-08,Beauty
+308,The product is fine The experience was good.,3,neutral,2026-01-28,Home
+199,Amazing product and fast delivery This is my honest review.,5,positive,2026-01-05,Books
+356,The product is fine This is my honest review.,3,neutral,2026-01-28,Beauty
+147,Very impressive product I expected more.,5,positive,2026-02-23,Electronics
+471,"I hate this product Overall, I am satisfied.",2,negative,2026-01-11,Clothing
+533,I am unhappy with this purchase The experience was good.,1,negative,2026-03-12,Beauty
+148,Very impressive product The product arrived on time.,5,positive,2026-03-16,Beauty
+421,The product broke after one day I would buy it again.,1,negative,2026-01-10,Electronics
+349,"The price is okay Overall, I am satisfied.",3,neutral,2026-02-04,Clothing
+326,It works normally This is my honest review.,3,neutral,2026-01-28,Electronics
+514,"I am unhappy with this purchase Overall, I am satisfied.",1,negative,2026-01-12,Beauty
+124,This product is worth the money This is my honest review.,4,positive,2026-02-08,Electronics
+503,The product is awful I would buy it again.,2,negative,2026-02-04,Electronics
+97,Excellent product The product arrived on time.,4,positive,2026-02-16,Beauty
+144,Amazing quality and fast delivery This is my honest review.,4,positive,2026-02-26,Clothing
+240,Average experience with this product This is my honest review.,3,neutral,2026-02-07,Books
+426,I would not recommend this product,1,negative,2026-02-15,Electronics
+98,"This product is absolutely amazing After using it for some time, this is my opinion.",5,positive,2026-02-18,Books
+325,The product is acceptable for basic use I expected more.,3,neutral,2026-03-10,Clothing
+280,The product is okay for the price The experience was good.,3,neutral,2026-02-25,Beauty
+294,The product is acceptable The product arrived on time.,3,neutral,2026-01-10,Home
+478,The product is awful I expected more.,1,negative,2026-01-06,Clothing
+123,Excellent product This is my honest review.,4,positive,2026-03-23,Books
+184,The product is fantastic I expected more.,5,positive,2026-02-28,Home
+203,It is neither impressive nor disappointing This is my honest review.,3,neutral,2026-01-23,Home
+324,It is okay for the price This is my honest review.,3,neutral,2026-01-09,Beauty
+247,Average quality product,3,neutral,2026-02-03,Electronics
+513,Very poor quality and waste of money The experience was good.,1,negative,2026-03-26,Home
+458,Very disappointed with the product I would buy it again.,1,negative,2026-03-05,Electronics
+479,Very disappointed with the product This is my honest review.,2,negative,2026-01-03,Electronics
+500,Very bad quality The product arrived on time.,2,negative,2026-01-01,Books
+530,"The product is awful After using it for some time, this is my opinion.",1,negative,2026-03-07,Books
+389,Nothing special about this product I expected more.,3,neutral,2026-03-02,Home
+126,"I am completely satisfied After using it for some time, this is my opinion.",5,positive,2026-02-12,Beauty
+582,I hate this product This is my honest review.,1,negative,2026-01-09,Home
+224,The product is satisfactory This is my honest review.,3,neutral,2026-03-04,Books
+343,The product is acceptable for basic use I expected more.,3,neutral,2026-02-20,Beauty
+54,Wonderful product and great service I would buy it again.,5,positive,2026-01-12,Electronics
+220,"The product is acceptable Overall, I am satisfied.",3,neutral,2026-03-21,Home
+130,The product quality is amazing I expected more.,4,positive,2026-02-08,Clothing
+544,The product is unreliable The product arrived on time.,1,negative,2026-01-16,Books
+394,"The product meets basic expectations Overall, I am satisfied.",3,neutral,2026-02-21,Home
+448,The product is completely useless The product arrived on time.,1,negative,2026-03-21,Books
+546,The product stopped working This is my honest review.,2,negative,2026-01-04,Electronics
+396,"Nothing special about this product Overall, I am satisfied.",3,neutral,2026-03-15,Clothing
+567,"Bad quality and poor performance Overall, I am satisfied.",1,negative,2026-02-05,Home
+403,Poor experience with this product,2,negative,2026-03-08,Home
+387,It works normally This is my honest review.,3,neutral,2026-01-18,Clothing
+581,"Very bad quality Overall, I am satisfied.",2,negative,2026-03-12,Books
+295,The quality is average,3,neutral,2026-03-26,Books
+501,Very disappointing experience I expected more.,1,negative,2026-03-17,Beauty
+483,Very bad product I expected more.,2,negative,2026-01-06,Clothing
+416,"Terrible product Overall, I am satisfied.",1,negative,2026-02-02,Electronics
+113,Great product for the price,5,positive,2026-02-22,Beauty
+180,Excellent product I would buy it again.,4,positive,2026-01-20,Clothing
+422,The product does not work properly The product arrived on time.,2,negative,2026-01-15,Clothing
+468,Poor experience with this product I would buy it again.,2,negative,2026-02-06,Electronics
+450,Extremely disappointing product This is my honest review.,2,negative,2026-03-26,Clothing
+374,The product is acceptable for basic use This is my honest review.,3,neutral,2026-03-07,Clothing
+315,Average experience with this product I would buy it again.,3,neutral,2026-02-02,Home
+152,I am very happy with this product This is my honest review.,5,positive,2026-01-19,Home
+583,"The product is awful Overall, I am satisfied.",1,negative,2026-03-17,Clothing
+234,It works normally I expected more.,3,neutral,2026-01-06,Home
+307,The product is reasonably good The product arrived on time.,3,neutral,2026-01-25,Home
+550,Waste of money I expected more.,1,negative,2026-03-21,Home
+165,"Very satisfied with my purchase Overall, I am satisfied.",5,positive,2026-02-26,Books
+318,Average quality product I would buy it again.,3,neutral,2026-03-22,Clothing
+137,Really happy with this purchase The experience was good.,4,positive,2026-02-20,Beauty
+411,I regret buying this product This is my honest review.,1,negative,2026-03-19,Clothing
+198,This is a great purchase,5,positive,2026-01-21,Beauty
+569,The product is awful This is my honest review.,1,negative,2026-03-03,Electronics
+259,It does the basic job This is my honest review.,3,neutral,2026-03-02,Home
+233,It is neither impressive nor disappointing,3,neutral,2026-01-09,Electronics
+116,I am happy with this product I would buy it again.,5,positive,2026-03-17,Clothing
+121,"Wonderful product and great service After using it for some time, this is my opinion.",5,positive,2026-03-09,Beauty
+489,The product is not good I would buy it again.,2,negative,2026-03-23,Home
+377,The product is acceptable for basic use I expected more.,3,neutral,2026-01-09,Clothing
+385,It is an ordinary product The experience was good.,3,neutral,2026-03-17,Electronics
+225,The product is satisfactory The product arrived on time.,3,neutral,2026-02-05,Home
+568,The product broke after one day The product arrived on time.,2,negative,2026-03-06,Beauty
+457,Terrible performance I expected more.,1,negative,2026-03-22,Beauty
+348,"The product performs normally After using it for some time, this is my opinion.",3,neutral,2026-01-25,Books
+128,"Excellent performance After using it for some time, this is my opinion.",4,positive,2026-03-06,Beauty
+591,Poor experience with this product I expected more.,1,negative,2026-02-19,Books
+286,"It works normally Overall, I am satisfied.",3,neutral,2026-01-09,Electronics
+554,The product is completely useless This is my honest review.,1,negative,2026-03-11,Electronics
+44,Really good product,5,positive,2026-02-10,Home
+108,The product works perfectly The experience was good.,4,positive,2026-03-04,Books
+565,I would not recommend this product The experience was good.,2,negative,2026-03-02,Home
+445,"The product is awful After using it for some time, this is my opinion.",1,negative,2026-02-14,Home
+134,This is a great purchase This is my honest review.,5,positive,2026-01-02,Home
+496,Terrible product The product arrived on time.,2,negative,2026-02-20,Electronics
+45,Awesome product This is my honest review.,4,positive,2026-02-07,Clothing
+170,Very nice product This is my honest review.,5,positive,2026-03-26,Books
+66,I am very happy with this product The product arrived on time.,4,positive,2026-03-11,Clothing
+284,Average experience with this product I would buy it again.,3,neutral,2026-01-28,Beauty
+86,Excellent performance The product arrived on time.,5,positive,2026-01-05,Books
+243,The product meets basic expectations,3,neutral,2026-02-07,Clothing
+187,Great product I expected more.,4,positive,2026-03-25,Beauty
+327,It is an average product This is my honest review.,3,neutral,2026-01-26,Books
+160,Great product for the price,4,positive,2026-02-18,Clothing
+13,The product works very well The experience was good.,4,positive,2026-02-09,Books
+36,Very satisfied with my purchase This is my honest review.,4,positive,2026-02-07,Books
+29,Very satisfied with my purchase I would buy it again.,5,positive,2026-01-09,Beauty
+171,The product works perfectly This is my honest review.,4,positive,2026-03-19,Clothing
+143,This is a great purchase I expected more.,4,positive,2026-02-23,Clothing
+237,Average experience with this product This is my honest review.,3,neutral,2026-02-10,Clothing
+464,The product is terrible This is my honest review.,2,negative,2026-03-28,Home
+497,Bad quality and poor performance The product arrived on time.,2,negative,2026-01-26,Beauty
+222,The product is fine for normal use The product arrived on time.,3,neutral,2026-03-21,Electronics
+545,"Terrible performance After using it for some time, this is my opinion.",2,negative,2026-03-19,Home
+96,The product works very well This is my honest review.,5,positive,2026-01-27,Electronics
+52,Very impressive product This is my honest review.,5,positive,2026-01-15,Electronics
+241,"The product is acceptable for basic use Overall, I am satisfied.",3,neutral,2026-01-10,Books
+508,"I am unhappy with this purchase Overall, I am satisfied.",1,negative,2026-03-04,Home
+352,"The product is satisfactory After using it for some time, this is my opinion.",3,neutral,2026-02-17,Clothing
+517,"The product broke after one day Overall, I am satisfied.",2,negative,2026-02-20,Home
+179,"Really nice product After using it for some time, this is my opinion.",5,positive,2026-01-17,Clothing
+461,The product is completely useless The experience was good.,2,negative,2026-03-28,Electronics
+527,Very poor quality and waste of money The experience was good.,2,negative,2026-02-08,Electronics
+42,The product works very well,4,positive,2026-01-14,Clothing
+555,"The product is not good Overall, I am satisfied.",2,negative,2026-02-03,Clothing
+523,"Poor quality product After using it for some time, this is my opinion.",2,negative,2026-01-28,Beauty
+207,It is neither impressive nor disappointing This is my honest review.,3,neutral,2026-03-21,Clothing
+393,It is a standard product I expected more.,3,neutral,2026-02-19,Electronics
+283,The product is fine for normal use This is my honest review.,3,neutral,2026-03-17,Books
+359,It is an ordinary product The experience was good.,3,neutral,2026-02-03,Beauty
+398,The experience was average I expected more.,3,neutral,2026-03-28,Clothing
+255,The product is fine I would buy it again.,3,neutral,2026-01-09,Electronics
+218,The product performs normally The product arrived on time.,3,neutral,2026-02-23,Electronics
+5,This product is absolutely amazing I would buy it again.,5,positive,2026-02-05,Home
+257,The product is fine This is my honest review.,3,neutral,2026-03-15,Beauty
+564,I would not recommend this product I expected more.,1,negative,2026-01-17,Home
+534,The product quality is terrible The product arrived on time.,1,negative,2026-01-26,Beauty
+431,Waste of money The product arrived on time.,2,negative,2026-02-05,Books
+101,Great product I would buy it again.,5,positive,2026-03-18,Clothing
+227,"Average experience with this product Overall, I am satisfied.",3,neutral,2026-03-02,Clothing
+449,"Really bad product After using it for some time, this is my opinion.",2,negative,2026-03-21,Books
+548,The product does not work properly,2,negative,2026-03-05,Clothing
+572,The product is terrible I would buy it again.,2,negative,2026-02-03,Electronics
+214,The product works fine I would buy it again.,3,neutral,2026-01-24,Beauty
+360,It is a decent product This is my honest review.,3,neutral,2026-03-20,Beauty
+172,"Nice product Overall, I am satisfied.",5,positive,2026-03-15,Electronics
+99,The product works very well The experience was good.,5,positive,2026-02-14,Clothing
+293,"The product is decent Overall, I am satisfied.",3,neutral,2026-01-27,Home
+216,The quality is average This is my honest review.,3,neutral,2026-01-24,Beauty
+62,The product works perfectly,5,positive,2026-03-05,Beauty
+407,"Extremely disappointing product After using it for some time, this is my opinion.",2,negative,2026-02-25,Beauty
+48,"I am very happy with this product Overall, I am satisfied.",4,positive,2026-02-04,Clothing
+33,I love this product The experience was good.,4,positive,2026-01-23,Electronics
+418,Very bad quality The product arrived on time.,2,negative,2026-02-28,Books
+268,"Average experience with this product After using it for some time, this is my opinion.",3,neutral,2026-01-11,Home
+328,"The product is okay for the price After using it for some time, this is my opinion.",3,neutral,2026-03-18,Electronics
+201,The product is neither good nor bad I would buy it again.,3,neutral,2026-02-22,Books
+135,Wonderful product and great service This is my honest review.,4,positive,2026-02-16,Electronics
+28,"Really happy with this purchase Overall, I am satisfied.",5,positive,2026-03-25,Electronics
+525,The product broke after one day This is my honest review.,2,negative,2026-02-23,Books
+506,"Bad quality and poor performance After using it for some time, this is my opinion.",2,negative,2026-02-24,Electronics
+231,"The product is neither good nor bad Overall, I am satisfied.",3,neutral,2026-02-04,Beauty
+490,I am not satisfied with this purchase This is my honest review.,2,negative,2026-02-11,Clothing
+261,"The product works fine After using it for some time, this is my opinion.",3,neutral,2026-03-28,Electronics
+379,Nothing special about this product This is my honest review.,3,neutral,2026-02-18,Books
+289,"The product is reasonably good After using it for some time, this is my opinion.",3,neutral,2026-01-12,Books
+419,This product is a waste of money The product arrived on time.,2,negative,2026-03-22,Electronics
+392,It is neither impressive nor disappointing The product arrived on time.,3,neutral,2026-03-28,Clothing
+499,Waste of money I would buy it again.,1,negative,2026-03-22,Beauty
+139,The product is fantastic The product arrived on time.,5,positive,2026-03-02,Beauty
+63,Awesome product I would buy it again.,4,positive,2026-02-26,Home
+472,I would not recommend this product The product arrived on time.,2,negative,2026-03-09,Electronics
+129,Excellent performance The experience was good.,5,positive,2026-03-19,Home
+584,Very poor quality and waste of money,1,negative,2026-01-16,Clothing
+521,The product broke after one day The product arrived on time.,1,negative,2026-03-18,Books
+65,Really nice product The product arrived on time.,4,positive,2026-01-26,Clothing
+15,"Excellent quality and great performance After using it for some time, this is my opinion.",5,positive,2026-01-07,Home
+157,Great product,5,positive,2026-01-07,Books
+41,"This product exceeded my expectations Overall, I am satisfied.",5,positive,2026-01-02,Beauty
+493,Poor experience with this product I would buy it again.,1,negative,2026-03-07,Books
+380,It is a standard product I expected more.,3,neutral,2026-03-22,Electronics
+188,Very good product and excellent quality This is my honest review.,5,positive,2026-03-26,Clothing
+217,The experience was average I expected more.,3,neutral,2026-01-16,Electronics
+53,"I would definitely recommend this product Overall, I am satisfied.",4,positive,2026-01-17,Beauty
+338,It is a standard product The experience was good.,3,neutral,2026-02-28,Beauty
+296,The product meets basic expectations This is my honest review.,3,neutral,2026-02-20,Electronics
+252,"The product is reasonably good Overall, I am satisfied.",3,neutral,2026-03-11,Home
+462,Very bad quality,1,negative,2026-02-13,Books
+456,The product is unreliable The product arrived on time.,1,negative,2026-03-24,Electronics
+598,I regret buying this product I would buy it again.,2,negative,2026-03-19,Electronics
+270,The product is okay for the price I would buy it again.,3,neutral,2026-03-22,Electronics
+202,Average quality product The product arrived on time.,3,neutral,2026-03-04,Books
+162,Great product for the price I would buy it again.,5,positive,2026-03-23,Home
+402,The product does not work properly I expected more.,2,negative,2026-03-24,Home
+477,"Very disappointing experience Overall, I am satisfied.",1,negative,2026-02-12,Home
+106,I love this product,5,positive,2026-03-03,Clothing
+390,"It is a standard product Overall, I am satisfied.",3,neutral,2026-03-24,Beauty
+2,"The quality is excellent Overall, I am satisfied.",5,positive,2026-01-03,Electronics
+559,I would not recommend this product I would buy it again.,2,negative,2026-03-07,Home
+81,"Awesome product After using it for some time, this is my opinion.",5,positive,2026-02-22,Books
+206,The product works fine The product arrived on time.,3,neutral,2026-01-28,Clothing
+35,The product quality is very good The experience was good.,5,positive,2026-01-18,Books
+509,Really bad product I would buy it again.,1,negative,2026-01-18,Beauty
+428,"The product is completely useless After using it for some time, this is my opinion.",2,negative,2026-02-05,Clothing
+455,Waste of money,2,negative,2026-01-01,Books
+367,It does the basic job I expected more.,3,neutral,2026-02-11,Electronics
+92,This product exceeded my expectations I expected more.,5,positive,2026-02-15,Clothing
+340,The product is fine I expected more.,3,neutral,2026-03-06,Beauty
+346,It is an average product,3,neutral,2026-02-16,Books
+242,The product is okay for the price This is my honest review.,3,neutral,2026-01-13,Electronics
+14,I am completely satisfied The experience was good.,5,positive,2026-01-27,Electronics
+316,"Average quality product After using it for some time, this is my opinion.",3,neutral,2026-03-26,Home
+388,It is a standard product I would buy it again.,3,neutral,2026-02-21,Books
+274,The product is okay for the price The product arrived on time.,3,neutral,2026-02-10,Electronics
+167,The product is fantastic This is my honest review.,4,positive,2026-03-16,Books
+595,The product is completely useless The product arrived on time.,2,negative,2026-01-23,Electronics
+485,"The product is terrible After using it for some time, this is my opinion.",2,negative,2026-03-21,Clothing
+586,I am unhappy with this purchase The product arrived on time.,1,negative,2026-01-14,Home
+505,Waste of money I expected more.,2,negative,2026-01-17,Books
+244,The product is acceptable for basic use I would buy it again.,3,neutral,2026-02-04,Home
+563,The product stopped working The experience was good.,2,negative,2026-01-18,Electronics
+190,"Very satisfied with my purchase Overall, I am satisfied.",4,positive,2026-02-02,Home
+476,The product stopped working The product arrived on time.,1,negative,2026-02-12,Books
+511,The product broke after one day I would buy it again.,1,negative,2026-02-01,Books
+59,Wonderful product and great service,4,positive,2026-02-02,Books
+475,The product is terrible I expected more.,1,negative,2026-01-09,Electronics
+561,The product quality is terrible The experience was good.,1,negative,2026-01-25,Electronics
+253,"The product is neither good nor bad After using it for some time, this is my opinion.",3,neutral,2026-03-21,Electronics
+22,"This product is absolutely amazing Overall, I am satisfied.",5,positive,2026-01-10,Home
+314,The product is okay for the price I expected more.,3,neutral,2026-03-23,Books
+460,"The product broke after one day Overall, I am satisfied.",2,negative,2026-02-19,Books
+161,This product is absolutely amazing The product arrived on time.,4,positive,2026-01-15,Clothing
+277,The product is acceptable for basic use,3,neutral,2026-01-20,Beauty
+192,Excellent product I would buy it again.,4,positive,2026-03-12,Clothing
+386,The product is neither good nor bad The experience was good.,3,neutral,2026-02-11,Electronics
+414,The product does not work properly I expected more.,1,negative,2026-02-27,Books
+492,The product is not good The product arrived on time.,2,negative,2026-03-07,Electronics
+344,The product is fine,3,neutral,2026-02-21,Beauty
+309,"The product is fine After using it for some time, this is my opinion.",3,neutral,2026-02-14,Electronics
+131,Very good product I would buy it again.,5,positive,2026-03-18,Electronics
+100,This product is worth the money,5,positive,2026-03-22,Home
+373,Average experience with this product I would buy it again.,3,neutral,2026-02-17,Clothing
+88,The product quality is amazing This is my honest review.,4,positive,2026-01-28,Beauty
+459,The product is completely useless The experience was good.,2,negative,2026-02-26,Home
+331,It does the basic job,3,neutral,2026-03-12,Beauty
+215,It is an average product This is my honest review.,3,neutral,2026-03-19,Home
+467,The product failed quickly,1,negative,2026-01-07,Home
+122,I am completely satisfied,4,positive,2026-01-24,Electronics
+21,Really good product The product arrived on time.,5,positive,2026-02-18,Beauty
+72,Great product for the price I expected more.,4,positive,2026-02-02,Beauty
+107,Excellent quality and great performance,4,positive,2026-01-20,Clothing
+271,"The product is acceptable After using it for some time, this is my opinion.",3,neutral,2026-01-20,Books
+436,The product is terrible This is my honest review.,2,negative,2026-03-24,Electronics
+103,Very satisfied with my purchase This is my honest review.,4,positive,2026-02-13,Electronics
